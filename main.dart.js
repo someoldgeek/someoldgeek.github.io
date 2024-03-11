@@ -116455,7 +116455,7 @@ ahQ(a){var s=0,r=A.w(t.N),q,p=this,o,n,m,l,k,j,i
 var $async$xD=A.r(function(b,c){if(b===1)return A.t(c,r)
 while(true)$async$outer:switch(s){case 0:i=A.i(a)
 $.Qh().ly(B.cq,"Fetching content for file: "+i,null,null)
-o="http://content.warframe.com/PublicExport/Manifest/"+i
+o="https://content.warframe.com/PublicExport/Manifest/"+i
 s=3
 return A.F(p.a.yc("GET",A.el(o),null),$async$xD)
 case 3:n=c
